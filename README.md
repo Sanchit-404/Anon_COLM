@@ -1,4 +1,4 @@
-# Reasoning Project
+# Reasoning Towards Fairness
 
 This project contains scripts for extracting reasoning traces from language models, fine-tuning models on these traces, and evaluating model performance on various datasets including BBQ and SQuAD.
 
